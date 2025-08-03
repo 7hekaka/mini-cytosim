@@ -1,0 +1,4 @@
+# netlify.toml
+[build]
+  command = ""        # no build step (static)
+  publish = "public"
